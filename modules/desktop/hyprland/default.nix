@@ -48,7 +48,6 @@
         wl-clipboard
         xdotool
         qt5.full
-        qtttools
       ];
 
       xdg.configFile."hypr/scripts" = {
