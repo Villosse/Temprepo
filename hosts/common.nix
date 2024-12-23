@@ -79,7 +79,6 @@ in {
         fd
         git
         gh
-        github-desktop
         htop
         nix-prefetch-scripts
         neofetch
@@ -145,7 +144,7 @@ in {
   };
   console.keyMap = kbdLayout; # Configure console keymap
   services.xserver.xkb = {
-    layout = "gb";
+    layout = "us";
     variant = "";
   };
 

@@ -4,7 +4,7 @@
   programs.git = {
     enable = true;
     lfs.enable = true;
-    userName = "lenny.chiadmi-delage";
-    userEmail = "lenny.chiadmi-delage@epita.fr";  
+    #userName = "lenny.chiadmi-delage";
+    #userEmail = "villosse@gmail.com";  
   };
 }

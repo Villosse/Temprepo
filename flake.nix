@@ -31,7 +31,7 @@
 
     # System configuration
     hostname = "nixos"; # CHOOSE A HOSTNAME HERE (default is fine)
-    locale = "en.US.UTF-8"; # REPLACE THIS WITH YOUR LOCALE
+    locale = "en_US.UTF-8"; # REPLACE THIS WITH YOUR LOCALE
     timezone = "Europe/Paris"; # REPLACE THIS WITH YOUR TIMEZONE
     kbdLayout = "us"; # REPLACE THIS WITH YOUR KEYBOARD LAYOUT
 
